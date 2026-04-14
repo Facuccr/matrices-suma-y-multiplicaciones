@@ -1,6 +1,6 @@
 # TP: Suma y Multiplicación de Matrices
 
-## 📁 Estructura de carpetas
+## Estructura de carpetas
 
 ```
 tp-matrices/
@@ -23,18 +23,18 @@ tp-matrices/
 
 ---
 
-## ⚙️ Instrucciones de ejecución
+## Instrucciones de ejecución
 
-### 🟢 Versión Cliente (JavaScript puro)
+### Versión Cliente (JavaScript puro)
 
 1. Ir a la carpeta `cliente`
 2. Abrir el archivo `index.html` en el navegador
 
 ---
 
-### 🔵 Versión Cliente-Servidor con Node.js
+### Versión Cliente-Servidor con Node.js
 
-1. Abrir una terminal en la carpeta `node`
+1. Abrir una terminal en la carpeta `javascript`
 2. Instalar dependencias:
 
    ```
@@ -55,7 +55,7 @@ tp-matrices/
 
 ---
 
-### 🟡 Versión Cliente-Servidor con Python (Flask)
+### Versión Cliente-Servidor con Python (Flask)
 
 1. Abrir una terminal en la carpeta `python`
 2. Instalar Flask:
